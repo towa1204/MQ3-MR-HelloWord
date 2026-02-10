@@ -97,3 +97,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+app_BackUpThisFolder_ButDontShipItWithYourGame
+MQ3 MR Hello World_BurstDebugInformation_DoNotShip
